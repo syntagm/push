@@ -18,9 +18,9 @@ angular.module('starter', [
   // Identify app
   $ionicAppProvider.identify({
     // The App ID (from apps.ionic.io) for the server
-    app_id: 'a4e0d55f',
+    app_id: '958347b0',
     // The public API key all services will use for this app
-    api_key: '875e8f862c5fab4d66cc94ac14a4b37c369c57d470c2083c'
+    api_key: '11f161a8ac38810f5ee497d4476949a60339e1e5fc8c62df'
     // The GCM project number
     gcm_id: '758159374635'
   });
